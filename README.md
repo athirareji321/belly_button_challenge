@@ -51,5 +51,5 @@ Adapt the Gauge Chart from [Plotly Guage Chart](https://plotly.com/javascript/ga
 ### 2. Snapshot of the Dashboard 
 ![Dashboard](https://github.com/athirareji321/belly_button_challenge/blob/main/README_Images/Dashboard.png)
 
-### 3. Link to GitHub Pages: [GitHub Pages](#)  
+### 3. Link to GitHub Pages: [GitHub Pages](https://athirareji321.github.io/belly_button_challenge/)  
 ![GitHub Pages](https://github.com/athirareji321/belly_button_challenge/blob/main/README_Images/Github_pages.png)
