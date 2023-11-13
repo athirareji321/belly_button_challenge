@@ -1,4 +1,4 @@
-🖥️# Belly Button Biodiversity Dashboard
+# 🖥️Belly Button Biodiversity Dashboard
 
 This interactive dashboard allows users to explore the microbial diversity found in human navels using data from [Belly Button Biodiversity](https://robdunnlab.com/projects/belly-button-biodiversity/). The dataset reveals the presence of microbial species (operational taxonomic units, or OTUs) in human navels, with some species being common in more than 70% of people.
 
@@ -44,7 +44,7 @@ Deploy your app to a free static page hosting service, such as GitHub Pages. Sub
 
 Adapt the Gauge Chart from [Plotly Guage Chart](https://plotly.com/javascript/gauge-charts/) to plot the weekly washing frequency of the individual. Modify the gauge chart code to account for values ranging from 0 through 9. Update the chart whenever a new sample is selected.
 
-▶️## Result
+## ▶️Result
 
 ### 1. Link to GitHub repo holding files: [GitHub Repo](https://github.com/athirareji321/belly_button_challenge)  
 
